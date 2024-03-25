@@ -1,6 +1,6 @@
 # Project 2
 
-![Project 2](https://github.com/PGE383-HPC/project2-solution/actions/workflows/main.yml/badge.svg)
+![Project 2](https://github.com/PGE383-HPC/project2/actions/workflows/main.yml/badge.svg)
 
 Laplace's equation is a second-order partial-differential equation that can be used to describe many phenomenon in science and engineering.  In two-dimensions it has the homogeneous form
 
